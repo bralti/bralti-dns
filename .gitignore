@@ -1,0 +1,9 @@
+# Object and temporary files
+*.o
+*.obj
+*.tmp
+BraltiDNS_old*.exe
+
+# Local configuration
+braltidns_config.ini
+

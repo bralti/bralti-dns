@@ -1,0 +1,25 @@
+bralti dns
+Official Website: https://bralti.com
+Copyright (c) 2026 bralti.com
+
+This software is an open-source fork and graphical distribution of GoodbyeDPI.
+
+Original Project:
+GoodbyeDPI - Deep Packet Inspection circumvention utility
+Copyright (c) 2017-2024 ValdikSS
+Website: https://github.com/ValdikSS/GoodbyeDPI
+Licensed under the Apache License, Version 2.0.
+
+Included Third-Party Software:
+1. WinDivert (Windows Packet Divert)
+   Copyright (c) 2011-2020 basil00
+   Website: https://reqrypt.org/windivert.html
+   Licensed under GNU Lesser General Public License (LGPLv3) and GNU General Public License (GPLv3).
+
+2. uthash
+   Copyright (c) 2005-2018 Troy D. Hanson
+   Website: https://troydhanson.github.io/uthash/
+   Licensed under the BSD 1-Clause License.
+
+3. Windows getline
+   Public domain / BSD compatible implementation.
