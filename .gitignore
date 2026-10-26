@@ -2,6 +2,7 @@
 *.o
 *.obj
 *.tmp
+*.zip
 BraltiDNS_old*.exe
 
 # Local configuration
